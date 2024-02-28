@@ -12,6 +12,7 @@ Conor Allen
 
 ## Contact Information
 My name is Conor and here is my contact information
+
 my number 
 <pre><code>810-434-0450</pre></code>
 my email 
