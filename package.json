@@ -12,7 +12,7 @@
     "client": "cd client && npm run dev"
   },
   "keywords": [],
-  "author": "",
+  "author": "Conor Allen",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
