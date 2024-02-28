@@ -12,6 +12,7 @@ Conor Allen
 
 ## Contact Information
 My name is Conor and here is my contact information
-ny number 810-434-0450
+my number 
+<pre><code>810-434-0450</pre></code>
 my email 
 <pre><code>conorallen5252@gmail.com</pre></code>
