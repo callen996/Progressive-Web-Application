@@ -11,7 +11,7 @@ This is a (PWA) also know as a Progressive Web Applications called Jate. This us
 Conor Allen
 
 ## Contact Information
-My name is Conor and here is my contatc information
+My name is Conor and here is my contact information
 ny number 810-434-0450
 my email 
 <pre><code>conorallen5252@gmail.com</pre></code>
