@@ -6,7 +6,7 @@
 This is a (PWA) also know as a Progressive Web Applications called Jate. This uses a indexDb API, and it helps with creating notes or anything so you can add into your daily lives and helps you with your to do lists.
 
 ## Deployed URL
-
+<pre><code>"https://progressive-web-application.onrender.com"</pre></code>
 ## Author
 Conor Allen
 
